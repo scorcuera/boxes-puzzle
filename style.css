@@ -1,0 +1,36 @@
+body {
+    height: 200vh;
+    width: 100vw;
+}
+
+.box-container {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+}
+
+.red-box {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.blue-box {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+
+.green-box {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+
+.violet-box {
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+}
+
+/* position: static, relative, absolute, fixed, sticky */
